@@ -1,0 +1,41 @@
+
+http/https requests
+
+Test Plan -> Add -> Non-TestElements -> TestScriptRecorder
+
+Target Controller : 
+	
+	SELECT -> TestPlan > http(S)TestScriptRecorder
+
+click start
+
+click on ok
+
+open browser and go to the url 
+
+view the response 
+______________________
+
+for https:
+
+open firefox 
+
+goto settings
+
+network -> add  local host 8888
+
+privacy and setting -> view certificate -> add certificate
+
+______________________________________________
+
+BlazeMeter
+
+username : selvan.84@gmail.com
+
+password : Thamarai@123
+
+
+
+
+
+
